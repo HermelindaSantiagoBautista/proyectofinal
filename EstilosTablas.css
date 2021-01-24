@@ -1,0 +1,29 @@
+table{border: 1px solid gray;
+  width: 100%;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgba(255, 0, 0, 0.5);
+}
+th{border: 1px solid gray;
+color: #39CE52 ;
+}
+td{border: 1px solid gray;
+color: white;
+}
+.Botones{text-decoration: none;
+         border: 1px solid black;
+         border-radius: 2px;
+         background-color: #15D16D;
+         color: black;
+         font-size: 18px;
+         padding: 4px;
+         font-family: Verdana;
+}
+.Botones:hover{
+         background-color:#2F3431;
+         color: white;
+}
+body{
+  text-align: center;
+  background: url(http://imagendeautos.com/wp-content/uploads/2016/06/Imagenes-De-Autos-De-Alta-Gama-En-HD-Para-Compartir.jpg);
+}

@@ -1,0 +1,27 @@
+img{width:20%;
+border-radius:200px;
+}
+header{
+  text-align:center;
+  background-color: gray;
+  font-size: 30px;
+  color: #97C84D;
+}
+body{
+  background: url(https://fondosmil.com/fondo/30406.jpg);
+  text-align: center;
+}
+
+.Botones{text-decoration: none;
+         border: 1px solid black;
+         border-radius: 2px;
+         background-color: #15D16D;
+         color: black;
+         font-size: 18px;
+         padding: 4px;
+         font-family: Verdana;
+}
+.Botones:hover{
+         background-color:#2F3431;
+         color: white;
+}
